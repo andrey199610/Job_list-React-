@@ -233,7 +233,6 @@ export default (props) => {
             ) : (
               "Post Job"
             )}
-            Post job
           </Button>
         </Box>
       </DialogActions>
